@@ -6,7 +6,7 @@
 * Used Google Cloud ML API and Tensorflow to train a face detection model and integrate with the Go service.
 
 ## Project Structure
-![](https://github.com/Liang200/Even-Recommendation-System/blob/master/Jupiter%20readme%20image/SQLtable.png)
+![](https://github.com/Liang200/Cloud-Based-Social-Network/blob/master/Service%20Graph.png)
 ## Built With
 * __Go__
 * __Google Cloud Platfrom__
